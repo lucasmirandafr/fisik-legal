@@ -49,7 +49,11 @@ Essas ações são sempre iniciadas por você. As imagens **não são armazenada
 
 Quando você usa o assistente ou o solucionador, o enunciado ou pergunta é enviado a provedores terceirizados de inteligência artificial de mercado para gerar a resposta. Não associamos essas perguntas à sua identidade. Esses provedores seguem seus próprios termos e políticas de privacidade, publicamente disponíveis em seus respectivos sites.
 
-### 2.5 Notificações
+### 2.5 Identificador de dispositivo (modo visitante)
+
+Se você usa o app sem criar conta (modo visitante), coletamos um identificador do seu aparelho (no Android, o `ANDROID_ID`; no iOS, o `identifierForVendor`) só para aplicar o limite de uso gratuito de IA por dispositivo, evitando abuso do limite ao reinstalar o app. Esse identificador não é usado para publicidade, não é compartilhado com terceiros e não é vinculado a nenhuma informação pessoal. Ao criar uma conta, esse controle deixa de ser necessário.
+
+### 2.6 Notificações
 
 Se você ativar os lembretes de estudo, o app agenda notificações locais. Nenhum dado é enviado a servidores para essa finalidade.
 
