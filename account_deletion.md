@@ -1,8 +1,6 @@
-# Exclusão de Conta — FísiK
+# Exclusão de Conta e de Dados — FísiK
 
-Esta página descreve como excluir sua conta e seus dados do FísiK, com ou sem o aplicativo instalado.
-
----
+Esta página descreve como excluir sua conta por completo, ou só parte dos seus dados sem excluir a conta, com ou sem o aplicativo instalado.
 
 ## 1. Excluir pelo aplicativo (mais rápido)
 
@@ -37,6 +35,23 @@ Não há período de retenção adicional além do necessário para processar o 
 
 ---
 
-## 4. Contato
+## 4. Excluir só parte dos seus dados (sem excluir a conta)
+
+Se você quer apagar apenas o histórico de uso da IA, sem excluir sua conta:
+
+1. Abra o FísiK e vá em **Assistente de IA → Histórico**.
+2. Escolha a aba **Conversas** ou **Resoluções**.
+3. Toque em **Limpar Tudo**.
+
+Isso remove permanentemente, do dispositivo e do servidor:
+
+- Histórico de conversas com o assistente de IA.
+- Histórico de resoluções de exercícios feitas pela IA.
+
+Sua conta, progresso (XP, nível, streak) e listas salvas continuam intactos. Se preferir, você também pode pedir essa exclusão parcial por e-mail em **lmfmobile.support@gmail.com**, com o assunto **"Exclusão de histórico de IA"**.
+
+---
+
+## 5. Contato
 
 Dúvidas sobre este processo: **lmfmobile.support@gmail.com**
