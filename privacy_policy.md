@@ -1,6 +1,6 @@
 # Política de Privacidade — FísiK
 
-**Última atualização:** 14 de agosto de 2025
+**Última atualização:** 30 de agosto de 2026
 
 Esta política descreve quais dados o aplicativo FísiK coleta, como os usa e como você pode exercer seus direitos.
 
@@ -38,10 +38,9 @@ Esses dados são sincronizados com nossos servidores somente se você estiver co
 
 ### 2.3 Câmera e fotos
 
-O app solicita acesso à câmera e galeria somente quando você usa as funções de:
+O app solicita acesso à câmera e galeria somente quando você usa a função de:
 
-- **OCR** — tirar foto ou importar imagem de um enunciado para o solucionador;
-- **Leitura de QR code** — importar um simulado via código.
+- **OCR** — tirar foto ou importar imagem de um enunciado para o solucionador.
 
 Essas ações são sempre iniciadas por você. As imagens **não são armazenadas** nos nossos servidores; o processamento de texto (OCR) ocorre localmente no dispositivo usando o Google ML Kit.
 
@@ -57,6 +56,14 @@ Se você usa o app sem criar conta (modo visitante), coletamos um identificador 
 
 Se você ativar os lembretes de estudo, o app agenda notificações locais. Nenhum dado é enviado a servidores para essa finalidade.
 
+### 2.7 Anúncios (Google AdMob)
+
+Usuários nos planos gratuito ou visitante veem anúncios exibidos pelo Google AdMob (banner, intersticial e vídeo recompensado). Para veicular e medir esses anúncios, o Google AdMob pode coletar o identificador de publicidade do seu aparelho e outros dados de dispositivo, conforme a [Política de Privacidade do Google](https://policies.google.com/privacy) e a [Política de Publicidade da Google](https://policies.google.com/technologies/ads). Você pode limitar a personalização de anúncios nas configurações de privacidade do seu Android (Configurações > Google > Anúncios). Usuários nos planos Lite, Premium e Pro não veem anúncios.
+
+### 2.8 Compras e assinaturas (Google Play Billing)
+
+Se você assinar um plano pago (Lite, Premium ou Pro), o pagamento é processado inteiramente pelo Google Play — nunca recebemos nem armazenamos dados do seu cartão de crédito ou meio de pagamento. Recebemos do Google apenas a confirmação técnica da compra (produto assinado, status e data de expiração) para liberar os recursos do plano na sua conta e para processar renovações e cancelamentos.
+
 ---
 
 ## 3. Compartilhamento de dados
@@ -67,8 +74,10 @@ Utilizamos os seguintes provedores de serviço:
 |---|---|---|
 | **Supabase** | Autenticação e sincronização de dados | supabase.com/privacy |
 | **Provedores de IA terceirizados** | Geração de respostas de IA | Políticas de privacidade públicas de cada provedor |
+| **Google AdMob** | Veiculação e medição de anúncios (planos gratuito/visitante) | policies.google.com/privacy |
+| **Google Play Billing** | Processamento de pagamento de assinaturas | policies.google.com/privacy |
 
-Não vendemos, alugamos nem compartilhamos seus dados com terceiros para fins publicitários.
+Não vendemos nem alugamos seus dados a terceiros. O compartilhamento com o Google AdMob (item acima) é limitado ao necessário para veicular e medir anúncios, sob a política de privacidade do próprio Google.
 
 ---
 
